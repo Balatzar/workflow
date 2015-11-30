@@ -1,3 +1,3 @@
-# APP GENERATOR
+[Workflow](https://github.com/Balatzar/workflow/blob/master/workflow.md)
 
-#### Un projet d'Alexandra, Maxime, Herbert et Balthazar
+[Ressources](https://github.com/Balatzar/workflow/blob/master/ressources.md)
